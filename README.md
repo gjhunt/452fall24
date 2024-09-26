@@ -36,5 +36,5 @@ No. | date | topics | approx. reading             | suggested problems (SP) | no
 20 | R 11-21 | pivoting              | 8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1|  [SP11](sp/sp11.pdf) | [notes](lns/lec20.pdf) |   | 
 21|T 11-26 | thanksgiving treat        |   |       | [notes](lns/lec21.pdf)|     | 
 .|R 11-28 | thanksgiving | 7.2.3             |  || --- | 
-22|T 12-3 | p-values and bayesian inference  |  7.2.3 | ---         | [notes](lns/lec22.pdf)| |--- | 
+22|T 12-3 | p-values and bayesian inference  |  7.2.3 | ---         | [notes](lns/lec22.pdf)| --- | 
 
