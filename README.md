@@ -20,9 +20,9 @@ No. | date | topics | approx. reading             | suggested problems (SP) | no
 9|R 9-26 | review | 7.3.2 (all)             | [SP5](sp/sp5.pdf) [SP6](sp/sp6.pdf)| [notes](lns/lec9.pdf)| [QP 5](qp/qp5.pdf) due Oct 3 | 
 . |T 10-1 | **midterm 1 (lectures 1-7)**  | | ---            | 
 10|R 10-3 | Rao-Blackwell and Lehmann-Scheffe | 7.3.3 (through Ex. 7.3.18)        | [SP7](sp/sp7.pdf) | [notes](lns/lec10.pdf)|  [QP 6](qp/qp6.pdf) due Oct 15 | 
-11|T 10-8 | inequalities and convergence | 7.3.3 (through Thrm 7.3.19)           |    | [notes](lns/lec11.pdf)|  --- | 
+11|T 10-8 | inequalities | 7.3.3 (through Thrm 7.3.19)           |    | [notes](lns/lec11.pdf)|  --- | 
 . |R 10-10 | fall break (no classes) | |  |
-12 | T 10-15 | more convergence and WLLN | 5.5.1, 5.5.2 | ---       | [notes](lns/lec12.pdf)|  [QP7](qp/qp7.pdf) due Oct 22 | 
+12 | T 10-15 | convergence | 5.5.1, 5.5.2 | ---       | [notes](lns/lec12.pdf)|  [QP7](qp/qp7.pdf) due Oct 22 | 
 13| R 10-17 | SLLN and CLT              |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec13.pdf)|  --- | 
 14|T 10-22 | delta method               | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP9](sp/sp9.pdf) | [notes](lns/lec14.pdf)|  [QP8](qp/qp8.pdf) due Oct 29 | 
 15|R 10-24 | asymptotic efficiency      | Thrm 5.5.14 through Ex. 5.5.25          | --- | [notes](lns/lec15.pdf) |  ---  | 
