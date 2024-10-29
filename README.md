@@ -26,7 +26,7 @@ No. | date | topics | approx. reading             | suggested problems (SP) | no
 13| R 10-17 | SLLN and CLT              |  5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP8](sp/sp8.pdf) | [notes](lns/lec13.pdf)|  --- | 
 14|T 10-22 | delta method               | 5.5 (through Thrm 5.5.13), Thrm 5.5.17 | [SP9](sp/sp9.pdf) | [notes](lns/lec14.pdf)|  [QP8](qp/qp8.pdf) due Oct 29 | 
 15|R 10-24 | asymptotic efficiency      | Thrm 5.5.14 through Ex. 5.5.25          | --- | [notes](lns/lec15.pdf) |  ---  | 
-16|T 10-29 | LRT         | 5.5.4 (through Ex. 5.5.27)      |  | [notes](lns/lec16.pdf) |  [QP9](qp/qp9.pdf) due Nov 5 | 
+16|T 10-29 | hypothesis testing         | 5.5.4 (through Ex. 5.5.27)      |  | [notes](lns/lec16.pdf) |  [QP9](qp/qp9.pdf) due Nov 5 | 
 . |R 10-31 | review              |  8.1, 8.3 (through Defn 8.3.6)  | --- | | |  | 
 . | T 11-5 | Election Day (no classes)  | | |    | [QP10](qp/qp10.pdf) due Nov 16
 .|R 11-7 | **midterm 2 (lecture 8-15)**| | | | | |
