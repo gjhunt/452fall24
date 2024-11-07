@@ -28,11 +28,11 @@ No. | date | topics | approx. reading             | suggested problems (SP) | no
 15|R 10-24 | asymptotic efficiency      | Thrm 5.5.14 through Ex. 5.5.25          | --- | [notes](lns/lec15.pdf) |  ---  | 
 16|T 10-29 | hypothesis testing         | 5.5.4 (through Ex. 5.5.27)      |  | [notes](lns/lec16.pdf) |  [QP9](qp/qp9.pdf) due Nov 5 | 
 . |R 10-31 | review              |  8.1, 8.3 (through Defn 8.3.6)  | --- | | |  | 
-. | T 11-5 | Election Day (no classes)  | | |    | [QP10](qp/qp10.pdf) due Nov 16
+. | T 11-5 | Election Day (no classes)  | | |    | 
 .|R 11-7 | **midterm 2 (lecture 8-15)**| | | | | |
-17|T 11-12 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec17.pdf)    |   | 
-18|R 11-14 | Neyman-Pearson and Karlin-Rubin          |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | ---  | [notes](lns/lec18.pdf)|  [QP11](qp/qp11.pdf) due Nov 21 | 
-19|T 11-19 | interval estimation              | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec19.pdf)|  ---  | 
+17|T 11-12 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec17.pdf)    | [QP10](qp/qp10.pdf) due Nov 19  |  
+18|R 11-14 | Neyman-Pearson and Karlin-Rubin          |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | ---  | [notes](lns/lec18.pdf)|   | 
+19|T 11-19 | interval estimation              | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec19.pdf)|  [QP11](qp/qp11.pdf) due Dec 3 | 
 20 | R 11-21 | pivoting              | 8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1|  [SP11](sp/sp11.pdf) | [notes](lns/lec20.pdf) |   | 
 21|T 11-26 | thanksgiving treat        |   |       | [notes](lns/lec21.pdf)|     | 
 .|R 11-28 | thanksgiving | 7.2.3             |  || --- | 
