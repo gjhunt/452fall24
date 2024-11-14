@@ -33,7 +33,7 @@ Weds 9-10AM, 2-3 PM
 | midterm 1 | Tues, Oct 1st (in class)  |
 | last day to withdraw | Monday Oct. 28th  |
 | midterm 2 | Thurs, Nov 7th (in class) |
-| final | 2:00 p.m. - 5:00 p.m. Monday Dec. 11th |
+| final | 2:00 p.m. - 5:00 p.m. Wednesday Dec. 11th |
 
 
 ## Website
