@@ -33,8 +33,8 @@ No. | date | topics | approx. reading             | suggested problems (SP) | no
 17|T 11-12 | more LRT |  8.2.1 | [SP10](sp/sp10.pdf) | [notes](lns/lec17.pdf)    | [QP10](qp/qp10.pdf) due Nov 19  |  
 18|R 11-14 | Neyman-Pearson and Karlin-Rubin          |  8.3 (through Ex 8.3.7), 8.3.2 (through Ex. 8.3.15)  | ---  | [notes](lns/lec18.pdf)|   | 
 19|T 11-19 | interval estimation              | 8.3.2 (through Thrm 8.3.17)  | --- | [notes](lns/lec19.pdf)|  [QP11](qp/qp11.pdf) due Dec 3 | 
-20 | R 11-21 | pivoting              | 8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1|  [SP11](sp/sp11.pdf) | [notes](lns/lec20.pdf) |   | 
-21|T 11-26 | thanksgiving treat        |   |       | [notes](lns/lec21.pdf)|     | 
+20 | R 11-21 | p-values and bayesian inference              | 8.3.4 (through Ex. 8.3.29), 9.1, 9.2.1|  [SP11](sp/sp11.pdf) | [notes](lns/lec20.pdf) |   | 
+21|T 11-26 | thanksgiving treat        |   |       | |     | 
 .|R 11-28 | thanksgiving | 7.2.3             |  || --- | 
-22|T 12-3 | p-values and bayesian inference  |  7.2.3 | ---         | [notes](lns/lec22.pdf)| --- | 
+22|T 12-3 |  |  7.2.3 | ---         | | --- | 
 
